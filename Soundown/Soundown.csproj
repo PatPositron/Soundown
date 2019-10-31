@@ -41,7 +41,7 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="UltraID3Lib">
-      <HintPath>..\..\..\..\..\..\Downloads\UltraID3Lib.dll</HintPath>
+      <HintPath>.\UltraID3Lib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
